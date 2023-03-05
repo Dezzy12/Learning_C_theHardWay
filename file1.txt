@@ -1,0 +1,7 @@
+Task : Write a C program to copy contents from a file fo another file,  use a shell script to build and run the program in one go;
+
+made use of some functions like: fopen, fclose, fgetc and fputc
+
+
+file1.txt was used as the source_file and file2.txt is the target_file .
+... 
